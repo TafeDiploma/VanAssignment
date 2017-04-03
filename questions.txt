@@ -1,0 +1,20 @@
+Dynamic variables.
+Dynamic variables are variables whose address is determined when the program is run. It represents an area in memory that is reserved to hold specific values. These variables are used to hold temporary values during the execution of a custom script.
+Medium size application development.
+You can use it for business application. This application development is the process and practice of the application. Technology can used for this case, such as C++ project or Rails.
+Standard array and file handling algorithms.
+Standard array is array that lists all elements of a particular vector space. They are used to decode linear codes. When it comes to file handling algorithms, if the code opens a text file in binary mode, then this file is collection of bytes, where it requires to used random access technique to move to different position. 
+User-defined data structures.
+The users can define their own data structure for each module to maintain problem-specific data and any other information the user needs to access. A pointer is an issue to user as the program required to deallocate memory, hence in C++, the user must provide a way to free the memory in the code, such as delete[].
+Describe two development methodologies and their application.
+Scrum is an iterative and agile development that a product is built in fixed-length iterations that gives teams a framework of shipping software on a regular position. Scrum application is simple but stills cover usage scenarios in agile scrum, this allows to create and manage backlog and also allows to see progression. Waterfall is divides the process of software development into separate phases and all follow in a fashionly order without overlapping. Waterfall application is easy to understand but hard to maintain, because there are critical point that if the user modified the project, such as change scope as it is very difficult to understand from the implementation stage.
+Outline the principles of language development.
+Language development provides two or more languages incorporated with the programmers. This provided the programmers to learn interests to any language that fitted with the required best for the projects.
+Outline the basic principles of project management.
+Project management provides discipline of initialising, planning, executing, controlling, and closing the work of a team to achieve specific goals and meet specific success criteria. Its primary challenge of it was to achieve all of the project goals within the given constraints.
+Describe the key features of the software development life cycle (SDLC).
+There are preliminarily analysis, analysis, design, development, implementation and evaluation & maintenace. Preliminarily analysis defined as the initial process at the start of a project that determines whether the concept is viable. Analysis defines the project goals into defined functions and operation. Design describes the features of the system. Development is where the programmer creates code for the system. Implementation is focusing on testing the system and executing the code. Evaluation & maintenance is where the teams ensure the the system is not obsolute, testing on the performance of the system.
+Describe the importance of software specifications.
+Software specifications establishes the basis for an agreement between customers and contractors or suppliers on what software do well or not.
+Identify the methods and importance of version control.
+Version control is important because it is easily deploying different versions of your code to staging or production servers. It is not only allow you to control your source code and files, but become more productive as a team. The methods of version control are tracking changes, committing and revisions and changesets.
